@@ -1,1 +1,1 @@
-# AMS
+# AMS - Attendance Management System
